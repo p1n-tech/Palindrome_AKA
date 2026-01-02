@@ -1,5 +1,17 @@
 # Palindrome_AKA
-this program will check a string is palindrome or not, then it will count the total iterative and recursive run time and the ratio so the program can make a table in csv form
+This project checks whether a given string is a palindrome using *two approaches*:
+1. *Iterative (two-pointer)*
+2. *Recursive*
+
+It also measures the *average execution time (nanoseconds)* for both approaches and exports the results into a *CSV file* so you can create a comparison graph (e.g., in Excel).
+
+
+## Features
+- ✅ Palindrome detection (Yes/No)
+- ✅ Two implementations: iterative & recursive
+- ✅ Benchmarking output in *nanoseconds (ns)*
+- ✅ CSV export: results.csv
+- ✅ Ratio calculation: *Recursive / Iterative*
 
 
 
