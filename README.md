@@ -1,7 +1,13 @@
 # Palindrome_AKA
 this program will check a string is palindrome or not, then it will count the total iterative and recursive run time and the ratio so the program can make a table in csv form
 
+
+
 read this instruction to use the program
+
+
+==================INSTRUCTION HOW TO USE THE PROGRAM==================
+
 
 1. download the palindorme.zip file then extract it
 2. use a cpp compiler (code blocks recomended)
